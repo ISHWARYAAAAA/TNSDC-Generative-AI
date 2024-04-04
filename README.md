@@ -1,5 +1,7 @@
 # TNSDC-Generative-AI
 
+Dataset link - https://www.kaggle.com/datasets/jkanthony/ipl-2022-bowlers-stats https://www.kaggle.com/datasets/jkanthony/ipl-2022-batting-stats
+
 1.	Introduction
 •	Overview of the Tata Indian Premier League (IPL): Established as one of the most prestigious T20 cricket leagues globally, attracting top international talent and a massive fan base.
 •	Importance of data analysis and predictive modeling in cricket: With the growing influence of data analytics in sports, including cricket, teams are increasingly relying on statistical insights to optimize player performances, devise winning strategies, and enhance overall team efficiency.
